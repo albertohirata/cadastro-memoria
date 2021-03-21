@@ -1,0 +1,2 @@
+## Criando uma APP de cadastro em memória :pencil:
+Desenvolvi este projeto de cadastro de séries em .NET com a Digital Innovation One e Eliézer Zarpelão e contribuí com minha versão implementando a transição entre as "telas" do cadastro.
